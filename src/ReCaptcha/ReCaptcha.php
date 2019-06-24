@@ -41,7 +41,7 @@ class ReCaptcha
      * URL for reCAPTCHA siteverify API
      * @const string
      */
-    const SITE_VERIFY_URL = 'https://www.google.com/recaptcha/api/siteverify';
+    const SITE_VERIFY_URL = 'https://www.recaptcha.net/recaptcha/api/siteverify';
 
     /**
      * Invalid JSON received
