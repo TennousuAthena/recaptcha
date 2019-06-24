@@ -1,6 +1,6 @@
 {
-    "name": "google/recaptcha",
-    "description": "Client library for reCAPTCHA, a free service that protects websites from spam and abuse.",
+    "name": "qcminecraft/recaptcha",
+    "description": "Client library for reCAPTCHA, a free service that protects websites from spam and abuse. | For ",
     "type": "library",
     "keywords": ["recaptcha", "captcha", "spam", "abuse"],
     "homepage": "https://www.google.com/recaptcha/",
