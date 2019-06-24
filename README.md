@@ -1,4 +1,8 @@
-# reCAPTCHA PHP client library
+# reCAPTCHA PHP client library 中国地区使用
+
+## 将API地址改为大陆地区可访问的
+
+composer: qcminecraft/recaptcha
 
 [![Build Status](https://travis-ci.org/google/recaptcha.svg)](https://travis-ci.org/google/recaptcha)
 [![Coverage Status](https://coveralls.io/repos/github/google/recaptcha/badge.svg)](https://coveralls.io/github/google/recaptcha)
